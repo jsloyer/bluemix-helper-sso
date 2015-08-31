@@ -22,7 +22,8 @@
     "lodash": "~3.9.3",
     "oauth": "0.9.10",
     "base64url": "0.0.6",
-    "jws": "0.2.5"
+    "jws": "0.2.5",
+    "cfenv": "*"
   },
   "devDependencies": {
     "mocha": "*"
